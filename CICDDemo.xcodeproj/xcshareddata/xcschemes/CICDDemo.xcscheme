@@ -38,6 +38,16 @@
                ReferencedContainer = "container:CICDDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8A26FDCC284557B600DCA5FD"
+               BuildableName = "CICDDemoUITests.xctest"
+               BlueprintName = "CICDDemoUITests"
+               ReferencedContainer = "container:CICDDemo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction

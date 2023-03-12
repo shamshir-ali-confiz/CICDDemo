@@ -9,9 +9,19 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>CICDDemoUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>8A26FDCC284557B600DCA5FD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>8AC8E3FA283EF37000BECAC5</key>
 		<dict>
 			<key>primary</key>
